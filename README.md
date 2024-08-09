@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Kalra</h1>
 <h3 align="center">I'm Utkarsh Kalra, a 3rd year IT student at Manipal University Jaipur, India. I'm passionate about MERN Stack Development</h3>
 
-- 🌱 I’m currently learning **Angular, Next.JS**
+- 🌱 I’m currently learning **Angular, Next.JS, AI/ML**
 
 - 💬 Ask me about **React, Java, Python**
 
