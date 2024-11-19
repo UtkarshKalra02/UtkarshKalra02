@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **utkarshkalra02@gmail.com**
 
-- 📄 Resume/CV [Resume]([https://drive.google.com/file/d/1Ep4Cqa_5jaVvFjp2rnL_-x07D6ctZ_6D/view?usp=sharing](https://drive.google.com/file/d/1z_V0nRCg5xZLoiRKJ69aK3WXwGBs8frN/view?usp=sharing))
+- 📄 Resume/CV [Drive Link]((https://drive.google.com/file/d/1z_V0nRCg5xZLoiRKJ69aK3WXwGBs8frN/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
